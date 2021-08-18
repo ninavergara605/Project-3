@@ -13,10 +13,9 @@
   - [Extraction Mechanism](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L50)
   - [Management Group](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L56)
   - [Water Quality](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L62)
-- [Modeling Results](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L24)
-- [Conclusions](#https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L69)
-- [For More Information](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L72)
-- [Repository Structure](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L76)
+- [Modeling Results](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L69)
+- [Conclusions](#https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L72)
+- [Repository Structure](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L75)
   
 
 ## Modeling Goals
