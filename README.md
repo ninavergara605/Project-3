@@ -3,19 +3,20 @@
 **Author**: *Nina Vergara*
   
 ## Overview
-- [Modeling Goals](Modeling-Goals)
-- [Data](Data)
-   - [Data Dictionary](Data-Dictionary)
-- [Methods](Methods)
-- [EDA Results: Notable Features](EDA-Results-Notable-Features)
-  - [Construction Year](Construction-Year)
-  - [Extraction Mechanism](Extraction-Mechanism)
-  - [Management Group](Management-Group)
-  - [Water Quality](Water-Quality)
-- [Modeling Results](Modeling-Results)
-- [Conclusions](Conclusions)
-- [For More Information](For-More-Information)
-- [Repository Structure](Repositroy-Structure)
+- [Modeling Goals](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L21)
+- [Data](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L23)
+- [Methods](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L30)
+  - [Data Cleaning](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L33)
+  - [KNN Feature Engineering](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L38)
+- [EDA Results: Notable Features](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L43)
+  - [Construction Year](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L45)
+  - [Extraction Mechanism](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L50)
+  - [Management Group](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L56)
+  - [Water Quality](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L62)
+- [Modeling Results](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L24)
+- [Conclusions](#https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L69)
+- [For More Information](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L72)
+- [Repository Structure](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L76)
   
 
 ## Modeling Goals
@@ -24,8 +25,8 @@ A Non-Profit Organization would like to allocate resources to Tanzania. They req
 ## Data
 A total of 74,250 records were extracted from Taarifa, an open source platform that aggregates data collected by volunteers and the Ministry of Water. This particular subset of Taarifa data was accessed through the Driven Data- Pump it Up: Data Challenge. This dataset includes 38 features, which give information on location, well mechanisms and management systems, as well as surrounding population numbers.
 
- #### Data Dictionary
-    Data Dictionary *kc_house_data.csv*
+  [Data Dictionary Link](https://github.com/ninavergara605/Project-3/blob/16c322c977093ea12eada9e761bcb97823783401/data_dictionary.txt)
+
     
     
 ## Methods
@@ -74,14 +75,14 @@ Water Quality also influences the condition label of a well. Colored wells are m
 
 ## Repositroy Structure
  ```
-├── data.zip                            <- Zipped data file (please unzip before running scripts)
-├── images                              <- Images that were used in the presentation                                            
-├── water_well_classification           <- Script folder
-   └── EDA.ipynb.                       <- EDA Notebook and results
-   └── data_cleaning.ipynb              <- Data cleaning notebook
-   └── feature_engineering.ipynb        <- Categorization tree and KNN feature engineering notebook
-   └── models.ipynb                     <- Modeling notebook
-├── Water Well Presentation.pdf         <- PDF of an EDA Project Presentation                       
-└── README.md                           <- The README.md
+├── data.zip                           <- Zipped data file (please unzip before running scripts)
+├── images                             <- Images that were used in the presentation                                            
+├── water_well_classification          <- Script folder
+   └── EDA.ipynb.                      <- EDA Notebook and results
+   └── data_cleaning.ipynb             <- Data cleaning notebook
+   └── feature_engineering.ipynb       <- Categorization tree and KNN feature engineering notebook
+   └── models.ipynb                    <- Modeling notebook
+├── Water Well Presentation.pdf        <- PDF of an EDA Project Presentation                       
+└── README.md                          <- The README.md
 
 ```
