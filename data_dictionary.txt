@@ -2,7 +2,7 @@
   
   
   
-  •	amount_tsh: 			Amount of water in well
+  	•	amount_tsh: 			Amount of water in well
 	•	date_recorded: 			The date of record creation
 	•	funder: 				Organization that funded well creation
 	•	gps_height: 			Altitude coordinate
