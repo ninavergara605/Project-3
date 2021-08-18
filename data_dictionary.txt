@@ -1,0 +1,42 @@
+	
+  
+  
+  
+  •	amount_tsh: 			Amount of water in well
+	•	date_recorded: 			The date of record creation
+	•	funder: 				Organization that funded well creation
+	•	gps_height: 			Altitude coordinate
+	•	installer: 				Organization that installed the well
+	•	latitude: 				Latitude coordinate
+	•	longitude: 				Longitude coordinate 
+	•	wpt_name: 			Name of well
+	•	num_private: 			Unsure
+	•	basin: 				Water source
+	•	region: 				Region of location
+	•	region_code: 			Coded region
+	•	district_coded: 			Coded district location 
+	•	lga: 					Geo-location
+	•	ward: 				Geo-location
+	•	population: 			Population of surrounding area
+	•	public_meeting: 		Open to public boolean
+	•	recorded_by: 			Name of individual who created the record
+	•	scheme_management: 	Organization that operates the well
+	•	scheme_name: 			Organization that operates the well
+	•	permit: 				If the well has a permit 
+	•	construction_year: 		Year that the well was constructed
+	•	extraction_type: 		Water extraction mechanism
+	•	extraction_type_group: 	Water extraction mechanism
+	•	extraction_type_class: 	Water extraction mechanism
+	•	management: 			Management set-up
+	•	management_group: 		Management set-up
+	•	payment: 				How much the water costs
+	•	payment_type: 			How often a payment is made
+	•	water_quality: 			Quality of water 
+	•	quality_group: 			Quality of water
+	•	quantity: 				How much water is available
+	•	quantity_group: 		How much water is available
+	•	source: 				Where the water comes from
+	•	source_type: 			Where the water comes from
+	•	source_class: 			Where the water comes from
+	•	waterpoint_type: 		What kind of well
+	•	waterpoint_type_group: 	What kind of well
