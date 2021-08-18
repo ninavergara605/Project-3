@@ -67,10 +67,10 @@ Water Quality also influences the condition label of a well. Colored wells are m
     
  
 ## Modeling Results
-
+First, a dummy classifier was created for a baseline model. This model had an accuracy score of .33. The second model was a decision tree, which had a cross validation accuracy score of .70. The third model attempted hyperparameter tuning for the decision tree model, which failed, having a training cross validation score of .20. The fourth model utlizied a gradient boost classifier, which had a training cross validation score of .76. The final model is an adaptive boost classifier, which produced a training cross validation score of .76.
 
 ## Conclusions
-
+Since it's important to predict true positives for our classes in order to identify wells that need assistance, either the gradient boost classifier or adaptive boost classifier should be chosen as the final models. In the future, hyperparameter tuning and confirming the selected models with test accuracy should be preformed.
     
 
 ## Repositroy Structure
