@@ -14,8 +14,8 @@
   - [Management Group](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L56)
   - [Water Quality](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L62)
 - [Modeling Results](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L69)
-- [Conclusions](#https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L71)
-- [Repository Structure](https://github.com/ninavergara605/Project-3/edit/main/README.md#L75)
+- [Conclusions](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L71)
+- [Repository Structure](https://github.com/ninavergara605/Project-3/edit/main/README.md?plain=1#L75)
   
 
 ## Modeling Goals
